@@ -5,3 +5,10 @@ C:\Users\Chloe\source\repos\Week1Challenges\Week1Challenges\obj\Debug\Week1Chall
 C:\Users\Chloe\source\repos\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.csproj.CoreCompileInputs.cache
 C:\Users\Chloe\source\repos\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.exe
 C:\Users\Chloe\source\repos\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.pdb
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\bin\Debug\Week1Challenges.exe.config
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\bin\Debug\Week1Challenges.exe
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\bin\Debug\Week1Challenges.pdb
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.exe
+C:\ElevenFiftyProjects\Week1\Week1Challenges\Week1Challenges\obj\Debug\Week1Challenges.pdb

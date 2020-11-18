@@ -24,17 +24,24 @@ namespace Week1Challenges
 
             //Make a list to hold dates. Include on that list the current date and time.
 
-            List<string> listOfDates = new List<string>();
-            DateTime now = DateTime.Now;
-            string nowString = now.ToString("dd/MM/yyyy HH:mm:ss");
-            string randomDateTime1 = "11/01/2020 08:33:18";
-            string randomDateTime2 = "30/10/2001 18:01:02";
-            
-            listOfDates.Add(nowString);
-            listOfDates.Add(randomDateTime1);
-            listOfDates.Add(randomDateTime2);
-           
-            Console.WriteLine(nowString);
+            List<DateTime> listOfDates = new List<DateTime>()
+            { DateTime.Now, new DateTime(1999, 01, 01), new DateTime(2021, 01, 01)
+            };
+            // Console.WriteLine(listOfDates[0]); will print the initial (first) in the list to console. can use for every number, but it's tiresome. Use foreach to print whole list.
+
+            foreach (var date in listOfDates)
+            { Console.WriteLine(date);
+            }
+
+                    // This was the OLD CODE I did that was using a string. Changed list format during class Tuesday.
+                     //DateTime now = DateTime.Now;
+                    //string nowString = now.ToString("dd/MM/yyyy HH:mm:ss");
+                    //string randomDateTime1 = "11/01/2020 08:33:18";
+                    //string randomDateTime2 = "30/10/2001 18:01:02"
+                    // listOfDates.Add(now);
+                    // listOfDates.Add(randomDateTime1);
+                    //listOfDates.Add(randomDateTime2);
+
 
             //Write out to the Console the values calculated by your age variable and the number 7. Use each operator we covered in Operators
 
